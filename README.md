@@ -66,10 +66,11 @@ and(Bo,abar,b);
 endmodule
 ```
 **RTL Schematic**
+![Screenshot (37)](https://github.com/SSPriyadharshini/HALF_ADDER_SUBTRACTOR/assets/144870443/fb7874c9-dfce-45a8-83f4-b038ff62e492)
 
 **Output/TIMING Waveform**
 ![Screenshot (36)](https://github.com/SSPriyadharshini/HALF_ADDER_SUBTRACTOR/assets/144870443/9edca2b0-6ba3-4784-8c24-44baf93563be)
-![Screenshot (37)](https://github.com/SSPriyadharshini/HALF_ADDER_SUBTRACTOR/assets/144870443/5477b81e-014f-47e1-aa40-80b841b38078)
+
 
 
 **Result:**
